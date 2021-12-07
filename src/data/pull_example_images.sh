@@ -10,3 +10,4 @@ cd $WD
 cd data/raw/PROMISE/incoming/PROMISE-20x-6t-c-5z_IO
 cp --parents PROMISE-20x-6t-c-5z_IO_HC9000E001D080B001*/C_9_fld_5* ../../../../../data/interim/automatic_microscopy/HC9000E001
 cd $WD  
+echo copy completed
