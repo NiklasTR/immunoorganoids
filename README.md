@@ -22,4 +22,4 @@ The treatment conditions for the 9 plates are as follows:
 8. RPMI + gel
 9. 50%ENA50%RPMI
 
-data from these experiments are stored on the B110 Isilon2: immuneorganoids/data/raw
+data from these experiments are stored at Michael Boutros' lab at the German Cancer Research Center. Only example files are shown here.
